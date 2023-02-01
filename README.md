@@ -140,5 +140,7 @@ Add images and other contents using CSS record a screenshot of it.
 ## Output:
 ![](WhatsApp%20Image%202023-01-31%20at%201.05.38%20AM%20(1).jpeg)
 
+## html validator:
+![](WhatsApp%20Image%202023-01-31%20at%201.41.43%20AM.jpeg)
 ## Result:
 Thus a website to display the cover page design of a book was successfully created.
